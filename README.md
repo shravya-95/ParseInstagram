@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="Demo1.gif" width=250><br>
+<img src="demo1.gif" width=250><br>
 
 
 

@@ -30,7 +30,7 @@ Here's a walkthrough of implemented user stories:
 
 
 <img src='https://imgur.com/H2YOUsI.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![Imgur image](https://imgur.com/H2YOUsI.gif)
+<img src="demo1.gif" width=250><br>
 
 
 ## Notes
